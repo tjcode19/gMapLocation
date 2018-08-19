@@ -42,8 +42,7 @@
          
         
 
-          // Change this depending on the name of your PHP or XML file
-        
+          // This will get raw json data and populate it to javascript        
           getJSON('apps/jsonData.json', function (err, data) {
            
             //console.log(data.agents);
