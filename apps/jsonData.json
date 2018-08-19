@@ -1,0 +1,35 @@
+{
+    "agents": [
+      {
+        "id": "1",
+        "name": "Tolu Joseph",
+        "address": "5, Araromi Street, Ashipa Candos, Ipaja, Lagos",
+        "phone": "07036443898",
+        "lat": "6.6131",
+        "lng": "3.2659",
+        "email": "tolu@test.com",
+        "type":"SuperAgent"
+      },
+      {
+        "id": "2",
+        "name": "Soji Akogun",
+        "address": "25, Ezobi Transformer, Ketu, Lagos",
+        "phone": "07036443897",
+        "lat": "6.5962",
+        "lng": "3.3918",
+        "email": "soji@test.com",
+        "type":"SuperAgent"
+      },
+      {
+        "id": "3",
+        "name": "Gbenga",
+        "address": "55, Dolphin Estate, Ikoyi, Lagos",
+        "phone": "08765656544",
+        "lat": "6.5749",
+        "lng": "3.3918",
+        "email": "gbenga@test.com",
+        "type":"Agent"
+      }
+    ]
+  }
+  
